@@ -1,0 +1,6 @@
+### Contribution Guidelines
+
+- Ensure your code adheres to the existing style of the project to maintain consistency.
+- Include comments in your code where necessary to explain reasons for changes or additions.
+- Make sure to test your changes thoroughly before submitting a pull request.
+- Update the README with details of changes to the interface, including new environment variables, exposed ports, useful file locations, and container parameters.
