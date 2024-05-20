@@ -10,7 +10,7 @@ To get started with this project, you'll need to have Docker and Docker Compose 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourrepository/orion-networkk.git
+   git clone https://github.com/yourrepository/orion-network.git
    cd mesh-blockchain-network
    ```
 
